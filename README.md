@@ -1,9 +1,6 @@
 # VapersLittleHelper
 Support for App
 
-Bei Problemen bitte mail an 35-notepad-falke@icloud.com
-If you encounter any issues, please send an email to 35-notepad-falke@icloud.com
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,4 +15,17 @@ If you encounter any issues, please send an email to 35-notepad-falke@icloud.com
   <p>No login, no advertising, no analytics.</p>
   <p>For questions, contact: <a href="mailto:35-notepad-falke@icloud.com">35-notepad-falke@icloud.com</a></p>
 </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Support – Vapers Little Helper</title>
+  </head>
+  <body style="font-family: sans-serif;">
+    <h1>Support</h1>
+    <p>Bei Fragen oder Problemen schreiben Sie bitte an:</p>
+    <p><a href="mailto:35-notepad-falke@icloud.com">35-notepad-falke@icloud.com</a></p>
+  </body>
 </html>
